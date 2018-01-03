@@ -1,7 +1,7 @@
 #Author: Hussain.Koser@gmail.com
 @OxfordWordMeaning
 Feature: 
- As a user i want to pass 
+ As a user i want to pass words to get meanings
 
   @MeaningFound @Positive
   Scenario: User passes valid word
