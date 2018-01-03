@@ -1,0 +1,13 @@
+
+#Maven
+/target/
+
+
+#License and class paths
+/.project/
+/.classpath/
+
+/.settings/
+
+*.project
+*.classpath
